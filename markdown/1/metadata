@@ -1,4 +1,4 @@
 {
   "title": "Introduction to windows code signing",
-  "tags": ["security", "windows", "executables"]
+  "tags": ["security", "windows", "executables", "cryptography", "PKI"]
 }
