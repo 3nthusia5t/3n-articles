@@ -1,0 +1,8 @@
+{
+  "title": "Calculating an executable entropy with GPU (CUDA)",
+  "tags": ["GPU", "CUDA", "security", "entropy", "Python", "Nimba"],
+  "friendly_url": "windows-code-signing",
+  "timestamp": 1713382077,
+  "meta_description": "Utilizing GPU to speed up entropy calculation of 100gb of files",
+  "published": false
+}
