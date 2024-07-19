@@ -1,0 +1,8 @@
+{
+  "title": "Cortex XDR tampering module bypass and other evasion tricks",
+  "tags": ["Cortex","EDR","Evasion", "Hacking"],
+  "friendly_url": "cortex-xdr-bypass",
+  "timestamp": 1717267950,
+  "meta_description": "Vulnerabilities in Cortex XDR has been discovered, which results in complete or partial loss of protection",
+  "published": true
+}
